@@ -1,0 +1,7 @@
+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
+
+
+
+
+
+git remote add origin https://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@github.com/MuhammadTariq12/java.git
